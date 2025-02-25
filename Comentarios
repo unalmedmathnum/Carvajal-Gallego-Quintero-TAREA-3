@@ -1,0 +1,9 @@
+Comentarios:
+
+- El informe está bien escrito y cumple con los requerimientos. 
+- Los códigos están bien escritos aunque me hace ruido que las rutinas ("a mano") no estén incluidas en el Notebook,
+  esto hace que sea más "difícil" de correr que lo usual. 
+- Definir el número de puntos y $h$ sin correlacionarlos no tiene mucho sentido porque no nos deja ver las imprecisiones
+  de los métodos de más bajo orden 
+
+Nota: 4.6 
